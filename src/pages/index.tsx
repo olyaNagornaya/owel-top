@@ -20,7 +20,7 @@ function Home() {
 
   return (
     <>
-      <HTag tag="h1">Text</HTag>
+      <HTag tag="h1">OwlTop</HTag>
       <Button appearance='primary' arrow='right'>OwlTop project</Button>
       <Button appearance='ghost' arrow='right'>Hello People yoyo</Button>
       <PTag size="medium">Test props in p</PTag>

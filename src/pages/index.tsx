@@ -21,7 +21,7 @@ function Home() {
   return (
     <>
       <HTag tag="h1">Text</HTag>
-      <Button appearance='primary' arrow='right'>Hello</Button>
+      <Button appearance='primary' arrow='right'>OwlTop project</Button>
       <Button appearance='ghost' arrow='right'>Hello People yoyo</Button>
       <PTag size="medium">Test props in p</PTag>
       <Tag color="primary" size='small'>Primary</Tag>

@@ -1,0 +1,30 @@
+.wrapper {
+  position: relative;
+}
+
+.star {
+  display: inline-block;
+}
+
+.star svg {
+  margin-right: 5px;
+}
+
+.field svg {
+  fill: var(--primary);
+}
+
+.editable {
+  cursor: pointer;
+}
+
+.withError svg {
+  fill: var(--red);
+}
+
+.errorText {
+  position: absolute;
+  bottom: -20px;
+  left: 0;
+  color: var(--red);
+}

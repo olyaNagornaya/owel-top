@@ -1,0 +1,46 @@
+{
+  "name": "owel-top",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "prepare": "husky install",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "stylelint": "stylelint \"**/*.css\" --fix"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@svgr/webpack": "^6.5.1",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "axios": "^1.3.3",
+    "classnames": "^2.3.2",
+    "date-fns": "^2.29.3",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "framer-motion": "^10.12.16",
+    "next": "13.1.6",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.44.3",
+    "react-redux": "^8.0.5",
+    "sass": "^1.58.2",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "husky": "^8.0.3",
+    "stylelint": "^15.1.0",
+    "stylelint-config-standard": "^30.0.1",
+    "stylelint-order": "^4.1.0",
+    "stylelint-order-config-standard": "^0.1.3"
+  }
+}

@@ -30,6 +30,7 @@ https://github.com/DanilaNagornyi/owltop/assets/64028251/d143887d-ac55-47c3-b3fa
 <h3>Технологии проекта</h3>
 <p>
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
